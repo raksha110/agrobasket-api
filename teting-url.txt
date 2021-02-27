@@ -1,0 +1,10 @@
+Add company : http://localhost:3000/addCompany/Reliance/Mumbai/ambani/j@j.com/1234567890/public/19000000000/abcdf
+Login company : http://localhost:3000/checkCompanyLogin/j@j.com/abcdf
+Get list of all company : http://localhost:3000/getAllCompany
+
+Add farmer : http://localhost:3000/addFarmer/Ram/UP/9876543210/ram111/abc
+Login farmer : http://localhost:3000/checkFarmerLogin/rahul111/abc
+Get list of all farmer : http://localhost:3000/getAllfarmer 
+
+Add crop to company : http://localhost:3000/addCrop/5fa667dbea3b952db81e6418/Winter-rice-2020-21/rice/105/40/1-12-2020/1-8-2020
+Get detail from crop : http://localhost:3000/getCrop/wheat 
